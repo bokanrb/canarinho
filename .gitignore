@@ -1,0 +1,27 @@
+# Visual Studio build output
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+
+# Visual Studio IDE
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Shellcode — never commit
+sc.bin
+*.bin
+*.raw
+
+# macOS
+.DS_Store
